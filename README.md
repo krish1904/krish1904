@@ -1,4 +1,10 @@
 ### Hi there 👋
+- 🔭 I’m currently working on - Voice Authentication Project
+- 🌱 I’m currently learning - Machine Learning
+- 🤔 I’m looking for help with - Front End Development
+- 📫 How to reach me: Linkedin:https://www.linkedin.com/in/krish-doshi-a48137219/
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact:
 
 <!--
 **krish1904/krish1904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
